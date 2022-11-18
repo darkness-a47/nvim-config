@@ -7,6 +7,3 @@ vim.opt.filetype = 'on'
 vim.opt.syntax = 'on'
 vim.opt.backup = false
 vim.opt.hlsearch = true
-vim.opt.showcwd = true
-vim.opt.showmode = true
-vim.opt.showmatch = true
